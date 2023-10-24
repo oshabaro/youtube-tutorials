@@ -3,5 +3,7 @@
   "sampleText": "عينة <bold><italic>نص</italic></bold>.",
   "changed_one": "لقد قمت بتغيير اللغة {{count}} الوقت",
   "changed_other": "لقد قمت بتغيير اللغة {{count}} الوقت",
-  "hi": "Hi"
+  "hi": "Hi",
+  "wait": "wait",
+  "go": "go"
 }
