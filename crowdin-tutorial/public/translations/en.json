@@ -4,5 +4,6 @@
   "changed_one": "You have changed the language {{count}} time",
   "changed_other": "You have changed the language {{count}} times",
   "hi": "Hi",
-  "wait": "wait"
+  "wait": "wait",
+  "go": "go"
 }
